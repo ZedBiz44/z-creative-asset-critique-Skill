@@ -7,6 +7,10 @@ description: Review marketing graphics, photographs, ads, logos, hero images, an
 
 Use this skill to give practical, low-friction feedback on a supplied creative asset. Help the requester move forward. Preserve effective work and recommend the smallest change that fixes a demonstrated problem.
 
+## Native tool use
+For a Canva design, use the available Canva review skill and connector to inspect it; apply this skill's business verdict without repeating a second full review. For uploaded/local images use the host's image viewer. Label supplied descriptions as reported evidence rather than claiming direct visual inspection.
+Creation or editing is a separate authorized action routed to the available ImageGen, Canva or creative-production skill.
+
 ## Use This Skill
 
 Use this skill when a requester asks whether a marketing graphic, photo, logo, ad, hero image, offer sheet, or text-heavy visual works, needs revisions, or is ready to publish.
