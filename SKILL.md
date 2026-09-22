@@ -15,7 +15,7 @@ Creation or editing is a separate authorized action routed to the available Imag
 
 Use this skill when a requester asks whether a marketing graphic, photo, logo, ad, hero image, offer sheet, or text-heavy visual works, needs revisions, or is ready to publish.
 
-Route new hook/concept development and questions about audience interest or marketing direction to `z-creative-asset-analysis` when available. Keep this skill's audience fit, clarity, trust and intended-use checks: judge how the actual asset executes the agreed direction rather than silently replacing the strategy.
+Route new hook/concept development and questions about audience interest or marketing direction to `z-creative-asset-analysis` when available. If an attention graphic has a missing, generic, sensational, or disconnected hook and no Creative Direction Record, do not call it Ready. Route that strategy question to analysis. Keep this skill's audience fit, clarity, trust and intended-use checks: judge how the actual asset executes the agreed direction rather than silently replacing the strategy.
 
 When a Creative Direction Record is supplied, review the exact current draft against its hook, visual idea, payoff location, approved facts and protected elements. A polished asset that fails to express the agreed hook is not ready for that job. Do not mistake proposed copy for an approved new offer or a readiness verdict for measured audience response.
 
