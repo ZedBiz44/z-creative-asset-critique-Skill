@@ -29,4 +29,3 @@ Run the manual happy-path review in [tests/happy-path.md](tests/happy-path.md) b
 The skill contains no secrets and must never request, store, or expose credentials, tokens, keys, or complete environment files. It does not grant authority to alter source files, publish assets, access a paid service, or make a production change.
 
 A human owner must approve any asset editing, publishing, paid production, client delivery, or other production-impacting action. GitHub is the authoritative source for the technical skill files. The detailed operating SOP belongs in Notion and must link back to this repository rather than become a competing executable copy.
-

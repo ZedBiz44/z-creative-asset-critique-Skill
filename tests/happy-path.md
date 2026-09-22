@@ -23,4 +23,3 @@ A suitable answer is:
 ## Manual Record
 
 Record the prompt, response, reviewer, date, and pass or fail result in the associated GitHub issue or pilot record when deployed to a live agent.
-
