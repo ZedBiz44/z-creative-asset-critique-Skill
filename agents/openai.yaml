@@ -2,3 +2,4 @@ interface:
   default_prompt: "Use $z-creative-asset-critique for the requested ZedBiz workflow."
   display_name: "Z Creative Asset Critique"
   short_description: "Help with Z Creative Asset Critique tasks"
+

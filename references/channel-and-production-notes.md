@@ -27,3 +27,4 @@ Request the printer or supplier specification before approving bleed, trim, reso
 ## Export and Naming Guidance
 
 Give export or naming guidance only when the requester needs it. Use a simple pattern such as `client-channel-size-purpose-v01.ext`. Treat this as a working convention, not a technical requirement, unless a client or team standard was supplied.
+

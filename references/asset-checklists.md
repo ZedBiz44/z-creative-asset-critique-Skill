@@ -33,3 +33,4 @@ Check headline clarity, reading order, contrast, line breaks, scanability, and w
 ## Multi-Asset Pack
 
 Review consistency only across the supplied assets. Check the repeated brand elements, copy hierarchy, crop treatment, and whether each file has a distinguishable job. Do not claim competitor sameness or system-wide inconsistency without the relevant comparison set.
+

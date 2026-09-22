@@ -15,6 +15,12 @@ Creation or editing is a separate authorized action routed to the available Imag
 
 Use this skill when a requester asks whether a marketing graphic, photo, logo, ad, hero image, offer sheet, or text-heavy visual works, needs revisions, or is ready to publish.
 
+Route new hook/concept development and questions about audience interest or marketing direction to `z-creative-asset-analysis` when available. Keep this skill's audience fit, clarity, trust and intended-use checks: judge how the actual asset executes the agreed direction rather than silently replacing the strategy.
+
+When a Creative Direction Record is supplied, review the exact current draft against its hook, visual idea, payoff location, approved facts and protected elements. A polished asset that fails to express the agreed hook is not ready for that job. Do not mistake proposed copy for an approved new offer or a readiness verdict for measured audience response.
+
+If a material issue requires a strategic decision, return one precise question with the observed evidence to analysis. After one targeted return, escalate an unresolved direction conflict to the assignment owner. Preserve settled choices and the existing revision limits. If analysis is unavailable, report that gap and give only the execution findings supported by the known brief.
+
 Do not use this skill to create or edit creative assets, publish them, access Canva credentials, certify legal rights, run a complete accessibility audit, or approve dimensions, links, QR codes, print settings, or exports that were not actually checked.
 
 ## Start With a Quick Look

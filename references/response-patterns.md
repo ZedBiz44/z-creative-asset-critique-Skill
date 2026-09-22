@@ -61,3 +61,4 @@ Never label a preference as a must-fix issue. Never mark an untested export or s
 > **No new design changes:** The remaining spacing difference is a preference, not a material problem.
 
 Close resolved issues clearly. Do not reopen a settled preference merely because an alternative is possible.
+
